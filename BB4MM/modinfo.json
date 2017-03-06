@@ -1,0 +1,16 @@
+{
+	"name": "Bark Collector",
+	"description": "Similar to my recipe mod Bark ByProduct, this collects bark created as a byproduct of making shaped wood at a carpentry station.\r\n\r\nNo tables or funcom blueprints are modified so this shouldn't conflict with anything or be affected by patches.",
+	"changeNote": "",
+	"author": "Kharzette",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "877562185",
+	"steamVisibility": 0,
+	"folderName": "BB4MM",
+	"revisionNumber": 25635,
+	"snapshotId": 10611
+}
