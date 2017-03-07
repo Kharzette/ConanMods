@@ -1,0 +1,16 @@
+{
+	"name": "MMOCams",
+	"description": "Similar to the Greater Camera Distance mod, but centers the third person camera, like an mmo camera.\r\n\r\nMakes archery a bit strange, but alot of people wanted this.\r\n\r\nNeeds ModMaster to load it up, which means this mod should survive all but the most severe of patches.",
+	"changeNote": "",
+	"author": "Kharzette",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "874225950",
+	"steamVisibility": 0,
+	"folderName": "MMOCams",
+	"revisionNumber": 25635,
+	"snapshotId": 10611
+}
