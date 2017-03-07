@@ -1,0 +1,16 @@
+{
+	"name": "Greater Camera Distance",
+	"description": "Allows the vanity and third person cameras to zoom out to 30 meters.\r\n\r\nDoesn't modify any funcom files so should never conflict with anything or break in a patch.\r\n\r\nMod ID is 863041645",
+	"changeNote": "",
+	"author": "Kharzette",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 2,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "863041645",
+	"steamVisibility": 0,
+	"folderName": "3rdCamDist",
+	"revisionNumber": 25635,
+	"snapshotId": 10611
+}
