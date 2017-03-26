@@ -1,6 +1,6 @@
 {
 	"name": "ReCustomize For ModMaster",
-	"description": "Press ctrl-shift-G to redo some elements of character creation.\r\n\r\nGender, Face, Voice set, Height, Skin Color, Eye Color, Bust/Endowment, Hairstyle, Haircolor, and Eyebrow color currently supported.\r\n\r\nYou'll need to edit your game's Input.ini to enable the hotkey. Add a line in the section: [/script/engine.inputsettings]\r\n\r\nAdd line:\r\nActionMappings=(ActionName=\"ReCustomize\",Key=G,bShift=True,bCtrl=True,bAlt=False,bCmd=False)\r\n\r\nIf your ini is empty, go in game and rebind a hotkey to something new, then exit the game.\r\n\r\nThis modifies UI/MainMenu/Settings/Mappings, as well as the color Datatables in UI/CharacterCreation/DataTables.  All table sizes are respected so no conflicts will occur, and you can even make your own mod to change these tables, and it will work with the customizer.\r\n\r\nMy color tables included have new colors for:\r\nSkin:  9: Pale,  10: Drow,  11: Hulk,  12: Ganguro,  13: Pureblood\r\nEyes:  16: Red, 17: Gold\r\n\r\nCool art credit to Ohagi and big thanks to Damien for helping me with replication so this will work on servers.  Also big thanks to Sikirash for the image showing the various styles and colors of hair.\r\n\r\nMod ID is 874290734",
+	"description": "Press ctrl-shift-G to redo some elements of character creation.\r\n\r\nGender, Face, Voice set, Height, Skin Color, Eye Color, Bust/Endowment, Hairstyle, Haircolor, and Eyebrow color currently supported.\r\n\r\nThis modifies the color Datatables in UI/CharacterCreation/DataTables.  All table sizes are respected so no conflicts will occur, and you can even make your own mod to change these tables, and it will work with the customizer.\r\n\r\nMy color tables included have new colors for:\r\nSkin:  9: Pale,  10: Drow,  11: Hulk,  12: Ganguro,  13: Pureblood\r\nEyes:  16: Red, 17: Gold\r\n\r\nCool art credit to Ohagi and big thanks to Damien for helping me with replication so this will work on servers.  Also big thanks to Sikirash for the image showing the various styles and colors of hair.\r\n\r\nMod ID is 874290734",
 	"changeNote": "",
 	"author": "",
 	"authorUrl": "",
@@ -11,6 +11,6 @@
 	"steamPublishedFileId": "874290734",
 	"steamVisibility": 0,
 	"folderName": "RC4ModMaster",
-	"revisionNumber": 25635,
-	"snapshotId": 10611
+	"revisionNumber": 26734,
+	"snapshotId": 10908
 }
