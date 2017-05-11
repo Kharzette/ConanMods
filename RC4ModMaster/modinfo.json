@@ -1,16 +1,16 @@
 {
 	"name": "ReCustomize For ModMaster",
-	"description": "Press ctrl-shift-G to redo some elements of character creation.\r\n\r\nGender, Face, Voice set, Height, Skin Color, Eye Color, Bust/Endowment, Hairstyle, Haircolor, and Eyebrow color currently supported.\r\n\r\nThis modifies the color Datatables in UI/CharacterCreation/DataTables.  All table sizes are respected so no conflicts will occur, and you can even make your own mod to change these tables, and it will work with the customizer.\r\n\r\nMy color tables included have new colors for:\r\nSkin:  9: Pale,  10: Drow,  11: Hulk,  12: Ganguro,  13: Pureblood\r\nEyes:  16: Red, 17: Gold\r\n\r\nCool art credit to Ohagi and big thanks to Damien for helping me with replication so this will work on servers.  Also big thanks to Sikirash for the image showing the various styles and colors of hair.\r\n\r\nMod ID is 874290734",
+	"description": "Press ctrl-shift-G to redo some elements of character creation.\r\n\r\nGender, Face, Voice set, Height, Skin Color, Eye Color, Bust/Endowment, Hairstyle, Haircolor, and Eyebrow color currently supported.\r\n\r\nThis modifies the color Datatables in UI/CharacterCreation/DataTables.  All table sizes are respected so no conflicts will occur, and you can even make your own mod to change these tables, and it will work with the customizer.\r\n\r\nMy color tables included have new colors for:\r\nSkin:  9: Pale,  10: Drow,  11: Hulk,  12: Ganguro,  13: Pureblood\r\nEyes:  16: Red, 17: Gold\r\n\r\nCool art credit to Ohagi and big thanks to Damien for helping me with replication so this will work on servers.  Also big thanks to Sikirash for the image showing the various styles and colors of hair.\r\n\r\nMod ID is 874290734\r\n\r\nSource at https://github.com/Kharzette/ConanMods",
 	"changeNote": "",
 	"author": "",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 0,
+	"versionBuild": 1,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "874290734",
 	"steamVisibility": 0,
 	"folderName": "RC4ModMaster",
-	"revisionNumber": 26734,
-	"snapshotId": 10908
+	"revisionNumber": 27883,
+	"snapshotId": 11338
 }

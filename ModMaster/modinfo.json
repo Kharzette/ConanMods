@@ -1,7 +1,7 @@
 {
 	"name": "ModMaster",
-	"description": "This mod looks at the loaded mods, and attempts to create an actor for each mod in the list.  This allows for mods that change funcom behaviours and variables without actually needing to change any of the funcom assets.\r\n\r\nThis can help many mods to survive a patch in which the blueprint they depend on is changed.\r\n\r\nThis can't do anything for mods that change tables (which is probably most of them).\r\n\r\nFor modders, to use this with your mod simply put your startup logic in begin play of an actor class named the same as the name of your mod.  It will be spawned with its owner set as baseSurvivalChar, so replication and such work.\r\n\r\nNote that when you cook a mod that doesn't modify funcom stuff (and thus isn't referenced anywhere), the cooker will make an empty pak.  To get around this make a new empty level and drag in your actor.  That will force it to build.  (note that this may not be necessary anymore)",
-	"changeNote": "",
+	"description": "This mod looks at the loaded mods, and attempts to create an actor for each mod in the list.  This allows for mods that change funcom behaviours and variables without actually needing to change any of the funcom assets.\r\n\r\nThis can help many mods to survive a patch in which the blueprint they depend on is changed.\r\n\r\nThis can't do anything for mods that change tables (which is probably most of them).\r\n\r\nFor modders, to use this with your mod simply put your startup logic in begin play of an actor class named the same as the name of your mod.  It will be spawned with its owner set as baseSurvivalChar, so replication and such work.\r\n\r\nNote that when you cook a mod that doesn't modify funcom stuff (and thus isn't referenced anywhere), the cooker will make an empty pak.  To get around this make a new empty level and drag in your actor.  That will force it to build.  (note that this may not be necessary anymore)\r\n\r\nSource at https://github.com/Kharzette/ConanMods",
+	"changeNote": "BaseSurvivalChar changed",
 	"author": "Kharzette",
 	"authorUrl": "",
 	"versionMajor": 1,
@@ -11,6 +11,6 @@
 	"steamPublishedFileId": "872681966",
 	"steamVisibility": 0,
 	"folderName": "ModMaster",
-	"revisionNumber": 25635,
-	"snapshotId": 10611
+	"revisionNumber": 26962,
+	"snapshotId": 11035
 }
