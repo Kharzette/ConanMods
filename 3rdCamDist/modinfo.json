@@ -1,6 +1,6 @@
 {
 	"name": "Greater Camera Distance",
-	"description": "Allows the vanity and third person cameras to zoom out to 30 meters.\r\n\r\nDoesn't modify any funcom files so should never conflict with anything or break in a patch.\r\n\r\nMod ID is 863041645",
+	"description": "Allows the vanity and third person cameras to zoom out to 30 meters.\r\n\r\nPress ctrl-shift-H to toggle back and forth between \"mmo mode\".  This centers the camera behind the player instead of off to one side for that mmo feel.  Note that this breaks archery so you should use the over the shoulder camera for archery.\r\n\r\nMod ID is 863041645\r\n\r\nSource at https://github.com/Kharzette/ConanMods",
 	"changeNote": "",
 	"author": "Kharzette",
 	"authorUrl": "",
@@ -11,6 +11,6 @@
 	"steamPublishedFileId": "863041645",
 	"steamVisibility": 0,
 	"folderName": "3rdCamDist",
-	"revisionNumber": 25635,
-	"snapshotId": 10611
+	"revisionNumber": 28937,
+	"snapshotId": 11570
 }
