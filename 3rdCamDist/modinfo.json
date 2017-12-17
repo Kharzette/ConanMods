@@ -5,12 +5,12 @@
 	"author": "Kharzette",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 2,
+	"versionMinor": 3,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "863041645",
 	"steamVisibility": 0,
 	"folderName": "3rdCamDist",
-	"revisionNumber": 65582,
-	"snapshotId": 13669
+	"revisionNumber": 73508,
+	"snapshotId": 15206
 }
