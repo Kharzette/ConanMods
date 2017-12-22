@@ -1,8 +1,8 @@
 {
-	"name": "HairDyePot",
-	"description": "",
+	"name": "Personal Dyes",
+	"description": "Turns the common Iron Pot from Ironmongery into a dye pot that allows dyeing of hair, skin, and anything else that will hold a color value (some of them are broken).\n\nAny craftable dye should work, and to return to your normal color, just use any water item in the pot to wash away the dye.\n\nSource code at https://github.com/Kharzette/ConanMods\n\nNote that dyes apply with varying results to parts depending on the shaders involved.  Skin tends to heavily darken the applied dye, while hair tends to lighten.\n\nLip and eye makeup dyeing affects the makeup only.  If you chose no lip or eye makeup, the dye won't have much effect.\n\nDye colors are propagated to other tables via some external code, as we have no way to write to data tables directly.  As such this will need updating if new dyes are added.",
 	"changeNote": "",
-	"author": "",
+	"author": "Kharzette",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 0,
@@ -11,6 +11,6 @@
 	"steamPublishedFileId": "",
 	"steamVisibility": 2,
 	"folderName": "HairDyePot",
-	"revisionNumber": 0,
-	"snapshotId": 0
+	"revisionNumber": 73508,
+	"snapshotId": 15206
 }
