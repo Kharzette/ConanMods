@@ -1,7 +1,7 @@
 {
 	"name": "Bark ByProduct",
-	"description": "Making shaped wood at a carpentry station produces 1 bark as a byproduct.",
-	"changeNote": "",
+	"description": "Making shaped wood or insulated wood at a carpentry station produces 1 bark as a byproduct.",
+	"changeNote": "Added insulated wood to produce bark",
 	"author": "Kharzette",
 	"authorUrl": "",
 	"versionMajor": 1,
@@ -10,7 +10,7 @@
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "862116109",
 	"steamVisibility": 0,
-	"folderName": "Bark_ByProduct",
-	"revisionNumber": 73508,
-	"snapshotId": 15206
+	"folderName": "BarkByProduct",
+	"revisionNumber": 91225,
+	"snapshotId": 17393
 }
