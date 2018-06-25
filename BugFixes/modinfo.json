@@ -1,0 +1,16 @@
+{
+	"name": "Fixed Wells/Hives/Traps/Pots",
+	"description": "Temporary workarounds for the bugs causing wells, fish traps, crab pots, and bee hives to stop working after a server restart.\n\nLightly tested and should be working for single player, but mainly tested on dedicated servers.",
+	"changeNote": "Implemented a 30 second watchdog on the various inventories watching for null items.  I'm not sure what the bug exactly is on that, but it is fairly easy to spot and remove the items now and then.  This fixes the problem many have where a filled beehive can produce one more honey, then stop after a take-all.  Pretty sure the same can happen with fish nets / crab pots so the fix is on all three.",
+	"author": "Kharzette",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1416651472",
+	"steamVisibility": 0,
+	"folderName": "BugFixes",
+	"revisionNumber": 100903,
+	"snapshotId": 18362
+}
