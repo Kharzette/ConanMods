@@ -1,0 +1,16 @@
+{
+	"name": "Auto Sort Functional",
+	"description": "Allows a player to dump items in a big container and a thrall will pick through the contents and carry the items off to the proper storage or workstation.\n\nEvery container and crafting station can be configured to hold categories of items or even amounts of individual items.",
+	"changeNote": "",
+	"author": "Kharzette",
+	"authorUrl": "https://github.com/Kharzette/ConanMods",
+	"versionMajor": 0,
+	"versionMinor": 5,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "AutoSortFunctional",
+	"revisionNumber": 0,
+	"snapshotId": 0
+}

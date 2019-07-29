@@ -1,0 +1,16 @@
+{
+	"name": "BouncyCastle",
+	"description": "Make thralls immune to falling damage",
+	"changeNote": "",
+	"author": "Kharzette",
+	"authorUrl": "https://github.com/Kharzette",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1817449940",
+	"steamVisibility": 2,
+	"folderName": "BouncyCastle",
+	"revisionNumber": 139474,
+	"snapshotId": 21313
+}
