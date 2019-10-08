@@ -1,0 +1,16 @@
+{
+	"name": "Booze Helper",
+	"description": "Fixes drinking sounds for ladies (no more old man groan).\n\nAlso returns glass flasks when the purified water is used in the brewing process.",
+	"changeNote": "A new approach using only the ModController to place Buffy, then buffy does the erasure and re-assignment of the buffsystem and variables on a 2 second delay to work around this bug:  https://answers.unrealengine.com/questions/706505/view.html",
+	"author": "Kharzette",
+	"authorUrl": "https://github.com/Kharzette",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 2,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1877326722",
+	"steamVisibility": 0,
+	"folderName": "FlaskRecycle",
+	"revisionNumber": 144536,
+	"snapshotId": 21789
+}
