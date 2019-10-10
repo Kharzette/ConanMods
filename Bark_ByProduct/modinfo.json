@@ -1,16 +1,16 @@
 {
 	"name": "Bark ByProduct",
-	"description": "Making shaped wood or insulated wood at a carpentry station produces 1 bark as a byproduct.",
-	"changeNote": "Added insulated wood to produce bark",
+	"description": "Making shaped wood or insulated wood at a carpentry station produces bark as a byproduct.\n\nNow admin configurable via mod control panel by hades.\n\nSource at:  https://github.com/Kharzette/ConanMods",
+	"changeNote": "Changed this to not modify the recipe table at all.  It now attaches a component to carpentry benches that listens on the item crafted event.  If it is shaped wood or insulated wood, it adds bark.\n\nAdded a UI for admins to adjust the amount of bark to spit out.  Should work with the mod control panel by hades, but need to test it a bit",
 	"author": "Kharzette",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 2,
+	"versionMinor": 3,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "862116109",
 	"steamVisibility": 0,
-	"folderName": "BarkByProduct",
-	"revisionNumber": 91225,
-	"snapshotId": 17393
+	"folderName": "Bark_ByProduct",
+	"revisionNumber": 147178,
+	"snapshotId": 22038
 }
