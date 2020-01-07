@@ -1,6 +1,6 @@
 {
 	"name": "Alchemical Alteration",
-	"description": "Seek out the lost knowledge of an ancient alchemist to obtain powerful transformative potions, capable of altering all manner of physical characteristics.\n\nStature, face type, voice, gender, and various part sizes may be altered.\n\nAlso added are two buyable feats; one that teaches personal care, and another feat that enables growing wild yeast for making bread or beer.\n\nPersonal care allows changing lip makeup for females, and eye makeup for both, eyebrows, hair and facial hair for males.\n\nSince the dryer doesn't show recipes, the yeast recipes are:\n\n1 honey and 4 purified water.\n5 desert berry pulp, 1 hops, and 2 purified water.\n5 highland berry pulp, 1 hops, and 2 purified water\n",
+	"description": "Seek out the lost knowledge of an ancient alchemist to obtain powerful transformative potions, capable of altering all manner of physical characteristics.\n\nStature, face type, voice, gender, and various part sizes may be altered.\n\nAlso added are two buyable feats; one that teaches personal care, and another feat that enables growing wild yeast for making bread or beer.\n\nPersonal care allows changing lip makeup for females, and eye makeup for both, eyebrows, hair and facial hair for males.\n\nSince the dryer doesn't show recipes, the yeast recipes are:\n\n1 honey and 4 purified water.\n5 desert berry pulp, 1 hops, and 2 purified water.\n5 highland berry pulp, 1 hops, and 2 purified water\n\n\n[b]Mod ID:  1254664175[/b]\n\nSource at [url=https://steamcommunity.com/linkfilter/?url=https://github.com/Kharzette/ConanMods][img]https://raw.githubusercontent.com/jhass/github_desktop_notifications/master/res/icons/GitHub-Mark-Light-64px.png[/img][/url]\n\n[url=https://steamcommunity.com/linkfilter/?url=https://www.patreon.com/bePatron?u=27670106][img]https://c5.patreon.com/external/logo/become_a_patron_button.png[/img][/url]",
 	"changeNote": "Two new potions for increasing / decreasing physique values for a more muscular or soft look.  These are added to page 35, which isn't ideal.  It means people will need to yellow lotus if they already have 35.\n\nAdded a bit of weight to the items.",
 	"author": "Kharzette",
 	"authorUrl": "",
@@ -11,6 +11,6 @@
 	"steamPublishedFileId": "1254664175",
 	"steamVisibility": 0,
 	"folderName": "Alchemy2",
-	"revisionNumber": 95799,
-	"snapshotId": 17790
+	"revisionNumber": 188524,
+	"snapshotId": 22834
 }
