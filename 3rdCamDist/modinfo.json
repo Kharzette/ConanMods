@@ -1,7 +1,7 @@
 {
 	"name": "Greater Camera Distance",
 	"description": "Allows the vanity and third person cameras to zoom out really far.\n\nMod ID is 863041645\n\nSource at https://github.com/Kharzette/ConanMods",
-	"changeNote": "",
+	"changeNote": "Check to see if player is in build mode and disallow zooming during building",
 	"author": "Kharzette",
 	"authorUrl": "",
 	"versionMajor": 1,
