@@ -1,16 +1,16 @@
 {
 	"name": "Booze Helper",
-	"description": "Fixes drinking sounds for ladies (no more old man groan).\n\nAlso returns glass flasks when the purified water is used in the brewing process.\n\nNote that this will only utilize voice sets that have the drunken / moaning sounds.  If you are using CharEditLite the quiet ones are female 2, 3, and 8 and I just fixed the Silent option to be silent as well.\n\nI could do a setting to make it more or less vocal if people want.  Maybe choose a random moan for the voice sets that don't have one, or make them all drink silently etc?\n\n[b]Mod ID:  1877326722[/b]\n\nSource at [url=https://steamcommunity.com/linkfilter/?url=https://github.com/Kharzette/ConanMods][img]https://raw.githubusercontent.com/jhass/github_desktop_notifications/master/res/icons/GitHub-Mark-Light-64px.png[/img][/url]\n\n[url=https://steamcommunity.com/linkfilter/?url=https://www.patreon.com/bePatron?u=27670106][img]https://c5.patreon.com/external/logo/become_a_patron_button.png[/img][/url]",
-	"changeNote": "Better compatability with CharEditLite's silent voice option",
+	"description": "Returns glass flasks when the purified water is used in the brewing process.\n\nThis used to fix audio bugs with women drinking, but that was fixed in the early 2021 patch so I have removed that bit of code.\n\n[b]Mod ID:  1877326722[/b]\n\nSource at [url=https://steamcommunity.com/linkfilter/?url=https://github.com/Kharzette/ConanMods][img]https://raw.githubusercontent.com/jhass/github_desktop_notifications/master/res/icons/GitHub-Mark-Light-64px.png[/img][/url]\n\n[url=https://steamcommunity.com/linkfilter/?url=https://www.patreon.com/bePatron?u=27670106][img]https://c5.patreon.com/external/logo/become_a_patron_button.png[/img][/url]",
+	"changeNote": "The big bugfix patch of a few days ago fixed lady sounds when drinking.  This allows me to blast several files and alot of dubious subclassing of the buff system.\n\nRecipes are the only thing this mod does now (return glass flasks so they aren't lost).",
 	"author": "Kharzette",
 	"authorUrl": "https://github.com/Kharzette",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 3,
+	"versionBuild": 4,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1877326722",
 	"steamVisibility": 0,
 	"folderName": "FlaskRecycle",
-	"revisionNumber": 188524,
-	"snapshotId": 22834
+	"revisionNumber": 265775,
+	"snapshotId": 27373
 }
