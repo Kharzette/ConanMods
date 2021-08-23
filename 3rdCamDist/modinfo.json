@@ -1,7 +1,7 @@
 {
 	"name": "Greater Camera Distance",
 	"description": "Allows the vanity and third person cameras to zoom out really far.\n\n[b]Mod ID:  863041645[/b]\n\nSource at [url=https://steamcommunity.com/linkfilter/?url=https://github.com/Kharzette/ConanMods][img]https://raw.githubusercontent.com/jhass/github_desktop_notifications/master/res/icons/GitHub-Mark-Light-64px.png[/img][/url]\n\n[url=https://steamcommunity.com/linkfilter/?url=https://www.patreon.com/bePatron?u=27670106][img]https://c5.patreon.com/external/logo/become_a_patron_button.png[/img][/url]\n",
-	"changeNote": "The tic for fighting against camera resets wasn't running on clients connected to dedicated servers.  I'm not sure if I didn't test this before, or if the sippin update broke it.  Either way I fiddled with a few things and in the end I think everything is exactly where I started, but somehow it works.  I have no idea.",
+	"changeNote": "Some log spam related to BasePlayerChar",
 	"author": "Kharzette",
 	"authorUrl": "",
 	"versionMajor": 1,
@@ -11,6 +11,6 @@
 	"steamPublishedFileId": "863041645",
 	"steamVisibility": 0,
 	"folderName": "3rdCamDist",
-	"revisionNumber": 245789,
-	"snapshotId": 26426
+	"revisionNumber": 314055,
+	"snapshotId": 30574
 }

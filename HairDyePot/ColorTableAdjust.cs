@@ -125,7 +125,7 @@ namespace DyeColoursToHairColours
 
 			//dyes use colour, hair uses color
 			//probably a brit doing dye, murican doing hair
-			sw.WriteLine("---,Color");
+			sw.WriteLine("---,Color,RequiredFeats");
 
 			foreach(DyeData dd in ddata)
 			{
@@ -136,7 +136,7 @@ namespace DyeColoursToHairColours
 					+ ",\"(R=" + dd.R.ToString("N6")
 					+ ",G=" + dd.G.ToString("N6")
 					+ ",B=" + dd.B.ToString("N6")
-					+ ",A=" + dd.A.ToString("N6") + ")\"");
+					+ ",A=" + dd.A.ToString("N6") + ")\",\"\"");
 			}
 
 			//blank line for some reason

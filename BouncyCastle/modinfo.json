@@ -1,7 +1,7 @@
 {
 	"name": "BouncyCastle",
 	"description": "Make thralls immune to falling damage\n\n[b]Mod ID:  1817449940[/b]\n\nSource at [url=https://steamcommunity.com/linkfilter/?url=https://github.com/Kharzette/ConanMods][img]https://raw.githubusercontent.com/jhass/github_desktop_notifications/master/res/icons/GitHub-Mark-Light-64px.png[/img][/url]\n\n[url=https://steamcommunity.com/linkfilter/?url=https://www.patreon.com/bePatron?u=27670106][img]https://c5.patreon.com/external/logo/become_a_patron_button.png[/img][/url]",
-	"changeNote": "",
+	"changeNote": "Rebuilt to get rid of some log spam",
 	"author": "Kharzette",
 	"authorUrl": "https://github.com/Kharzette",
 	"versionMajor": 1,
@@ -9,8 +9,8 @@
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1817449940",
-	"steamVisibility": 2,
+	"steamVisibility": 0,
 	"folderName": "BouncyCastle",
-	"revisionNumber": 139474,
-	"snapshotId": 21313
+	"revisionNumber": 314055,
+	"snapshotId": 30574
 }
