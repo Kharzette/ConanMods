@@ -1,7 +1,7 @@
 {
 	"name": "Bark ByProduct",
 	"description": "Making shaped wood or insulated wood at a carpentry station produces bark as a byproduct.\n\nAdmins can press leftctrl->backspace to adjust the amount of bark given per shaped / insulated wood.\n\n[b]Mod ID:  862116109[/b]\n\nSource at [url=https://steamcommunity.com/linkfilter/?url=https://github.com/Kharzette/ConanMods][img]https://raw.githubusercontent.com/jhass/github_desktop_notifications/master/res/icons/GitHub-Mark-Light-64px.png[/img][/url]\n\n[url=https://steamcommunity.com/linkfilter/?url=https://www.patreon.com/bePatron?u=27670106][img]https://c5.patreon.com/external/logo/become_a_patron_button.png[/img][/url]",
-	"changeNote": "Fix for log spam with latest patch",
+	"changeNote": "Fixed a bug with setting bark per wood to 0 and it still spitting a bark out.  Also rebuild for sorcery / 3.0",
 	"author": "Kharzette",
 	"authorUrl": "",
 	"versionMajor": 1,
@@ -9,8 +9,10 @@
 	"versionBuild": 1,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "862116109",
+	"steamTestLivePublishedFileId": "2856075618",
 	"steamVisibility": 0,
 	"folderName": "Bark_ByProduct",
-	"revisionNumber": 314055,
-	"snapshotId": 30574
+	"revisionNumber": 408177,
+	"snapshotId": 34671,
+	"fileSize": -2
 }
